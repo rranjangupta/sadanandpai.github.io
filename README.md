@@ -1,2 +1,1 @@
-# sadanandpai.github.io
 Portfolio
