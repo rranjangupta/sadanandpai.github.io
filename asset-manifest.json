@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sadanandpai.github.io/static/css/main.54cebeff.chunk.css",
+    "main.js": "/sadanandpai.github.io/static/js/main.c763eb15.chunk.js",
+    "main.js.map": "/sadanandpai.github.io/static/js/main.c763eb15.chunk.js.map",
+    "runtime-main.js": "/sadanandpai.github.io/static/js/runtime-main.d42c8fad.js",
+    "runtime-main.js.map": "/sadanandpai.github.io/static/js/runtime-main.d42c8fad.js.map",
+    "static/js/2.30b70ebf.chunk.js": "/sadanandpai.github.io/static/js/2.30b70ebf.chunk.js",
+    "static/js/2.30b70ebf.chunk.js.map": "/sadanandpai.github.io/static/js/2.30b70ebf.chunk.js.map",
+    "static/css/3.cf51df73.chunk.css": "/sadanandpai.github.io/static/css/3.cf51df73.chunk.css",
+    "static/js/3.cf7f03a4.chunk.js": "/sadanandpai.github.io/static/js/3.cf7f03a4.chunk.js",
+    "static/js/3.cf7f03a4.chunk.js.map": "/sadanandpai.github.io/static/js/3.cf7f03a4.chunk.js.map",
+    "index.html": "/sadanandpai.github.io/index.html",
+    "static/css/3.cf51df73.chunk.css.map": "/sadanandpai.github.io/static/css/3.cf51df73.chunk.css.map",
+    "static/css/main.54cebeff.chunk.css.map": "/sadanandpai.github.io/static/css/main.54cebeff.chunk.css.map",
+    "static/js/2.30b70ebf.chunk.js.LICENSE.txt": "/sadanandpai.github.io/static/js/2.30b70ebf.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/sadanandpai.github.io/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/developerActivity.2c0445ca.svg": "/sadanandpai.github.io/static/media/developerActivity.2c0445ca.svg",
+    "static/media/harvardLogo.png": "/sadanandpai.github.io/static/media/harvardLogo.0038dd28.png",
+    "static/media/stanfordLogo.png": "/sadanandpai.github.io/static/media/stanfordLogo.5a8e3a0a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d42c8fad.js",
+    "static/js/2.30b70ebf.chunk.js",
+    "static/css/main.54cebeff.chunk.css",
+    "static/js/main.c763eb15.chunk.js"
+  ]
+}
